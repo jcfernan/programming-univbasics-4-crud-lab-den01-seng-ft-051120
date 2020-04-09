@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
   truck= ["ford", "chevy", "dodge"]
-  tonka= shift.truck
+  tonka= truck.shift
 end
 
 def retrieve_element_from_index(array, index_number)
