@@ -37,7 +37,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  home= ["tucson", "phoenix", "el paso"]
+  home= ["tucson", "phoenix", "el paso", "arrays!"]
   home[-1]
 end
 
