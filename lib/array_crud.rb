@@ -17,9 +17,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  dog_brain= ["food", "h2o", "toy"]
+  dog_brain= ["food", "h2o", "toy", "arrays!"]
  deputy_dog= dog_brain.pop
- dog_brain
 end
 
 def remove_element_from_start_of_array(array)
